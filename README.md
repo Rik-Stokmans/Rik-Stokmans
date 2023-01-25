@@ -1,6 +1,6 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Rik Stokmans
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Digital Craftsman (Developer/Problem Solver)`**
 
 I'm a student and code in my spare time, I mostly code in Java and C languages. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
