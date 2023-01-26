@@ -10,7 +10,7 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
       <a href="https://www.linkedin.com/in/rik-stokmans-a74a83220/">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a>
-         <img alt="Arduino" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
+         <img alt="Arduino" title="I like making things with arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
       <a href="https://www.duolingo.com/profile/RikStokman">
          <img alt="Duolingo" title="Follow me on DuoLingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
