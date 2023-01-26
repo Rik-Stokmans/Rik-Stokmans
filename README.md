@@ -9,6 +9,8 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
          <img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a>
+         <img alt="Arduino" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
          <img alt="Duolingo" title="Follow me on DuoLingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
