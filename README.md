@@ -11,10 +11,12 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
          <img alt="Duolingo" title="Follow me on DuoLingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
-      <a href="https://github.com/Rik-Stokmans?tab=followers">
+      <a>
          <img alt="Intellij" title="My favorite editor" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
          <img alt="Gmail" title="Send me an e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      <a>
+         <img alt="Operating System" title="My OS of choice" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
    </p>
 
 ---
