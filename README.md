@@ -7,7 +7,7 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
    <p align="left">
       <a href="https://github.com/Rik-Stokmans?tab=followers">
          <img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://github.com/Rik-Stokmans?tab=followers">
+      <a href="[https://github.com/Rik-Stokmans?tab=followers](https://www.linkedin.com/in/rik-stokmans-a74a83220/)">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a>
          <img alt="Arduino" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
