@@ -6,7 +6,7 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
 
    <p align="left">
       <a href="https://github.com/Rik-Stokmans?tab=followers">
-         <img alt="instagram" title="Follow me on Instagram" src="img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+         <img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Rik-Stokmans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=repositories&sort=stargazers">
