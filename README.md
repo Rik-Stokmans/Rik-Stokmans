@@ -10,13 +10,11 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
       <a href="https://github.com/Rik-Stokmans?tab=followers">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
-         <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
+         <img alt="Duolingo" title="Follow me on DuoLingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
-         <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+         <img alt="Intellij" title="My favorite editor" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
       <a href="https://github.com/Rik-Stokmans?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Rik-Stokmans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Rik-Stokmans?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rik-Stokmans?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="Gmail" title="Send me an e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    </p>
 
 ---
