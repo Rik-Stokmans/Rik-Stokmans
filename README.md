@@ -5,7 +5,7 @@
 I'm a student and code in my spare time, I mostly code in Java and C languages. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
    <p align="left">
-      <a href="https://github.com/Rik-Stokmans?tab=followers">
+      <a href="https://www.instagram.com/rikstokmans/?next=%2F">
          <img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/rik-stokmans-a74a83220/">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
