@@ -40,7 +40,7 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
 ### 📊 Stats
 
 ![Rik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rik-Stokmans&show_icons=true&theme=gruvbox)
-![Rik's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Rik's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rik-Stokmans&theme=blue-green)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Rik-Stokmans&theme=gruvbox&border_radius=4.5) -->
