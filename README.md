@@ -13,7 +13,7 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
          <img alt="Arduino" title="I like making things with arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
       <a href="https://www.duolingo.com/profile/RikStokman">
          <img alt="Duolingo" title="Follow me on DuoLingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
-      <a href="https://github.com/Rik-Stokmans?tab=followers">
+      <a href="mailto:uptake_rolling.0h@icloud.com">
          <img alt="Gmail" title="Send me an e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a>
          <img alt="Intellij" title="My favorite editor" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
