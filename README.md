@@ -51,4 +51,4 @@ I'm a student and code in my spare time, I mostly code in Java and C languages. 
 
 <details>
  <summary><h3>👨‍💻 Rik's Coding Journey</h3></summary>
-   Work in progress
+   Work in progress.
