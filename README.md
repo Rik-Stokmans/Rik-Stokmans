@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Problem Solver/Reader)`**
 
-I'm a sfotware student at Fontys and also code in my spare time, I mostly code in Java and C languages. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm a software student at Fontys and am enrolled in the delta excellence programand, I also code in my spare time, I mostly code in Java and C languages. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
    <p align="left">
       <a href="https://www.instagram.com/rikstokmans/?next=%2F">
